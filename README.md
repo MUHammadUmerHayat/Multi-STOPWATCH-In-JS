@@ -1,2 +1,1 @@
-# Multi-STOPWATCH-In JS
- Multi Stopwatch  in JS 
+# Multi STOPWATCH In JS
